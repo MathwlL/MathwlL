@@ -1,16 +1,23 @@
 ## Hi there 👋
+
 ![alt text](https://github.com/MathwlL/MathwlL/blob/main/1749351800382.jpg?raw=true)
-<!--
-**MathwlL/MathwlL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Matheus Lira Lisbôa, a programmer based in Brazil. <br>
+
+Lately, I've been working a lot on the front end 
+
+I use tools like Figma and the Adobe Creative Cloud suite for design.
+
+<hr>
+
+## Tools & Tech
+
+- HTML, CSS, JS
+- SQL
+- GIT, GITHUB
+- Figma, Adobe Creative Cloud
+
+<hr>
+
+
