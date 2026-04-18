@@ -13,10 +13,11 @@ I use tools like Figma and the Adobe Creative Cloud suite for design.
 
 ## Tools & Tech
 
-- HTML, CSS, JS
+- HTML, CSS, JS, C#
 - SQL
 - GIT, GITHUB
 - Figma, Adobe Creative Cloud
+- .Net
 
 <hr>
 
