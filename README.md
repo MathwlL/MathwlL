@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](https://github.com/MathwlL/MathwlL/blob/main/1749351800382.jpg?raw=true)
+![alt text](https://github.com/MathwlL/MathwlL/blob/main/HomePic.png?raw=true)
 
 
 I'm Matheus Lira Lisbôa, a programmer based in Brazil. <br>
