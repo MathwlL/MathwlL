@@ -21,4 +21,4 @@ I use tools like Figma and the Adobe Creative Cloud suite for design.
 
 <hr>
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathwlL&layout=compact&theme=tokyonight&langs_count=10)
